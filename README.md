@@ -106,4 +106,6 @@ Other Limitations: This is not yet Mobile friendly as this was not in the scope 
 #### We had a GITHUB Fatal within the last hour this afternoon.
 The old link to the old directory is https://github.com/Rolosaregood/Tornadoes if work history needs to be reviewed.
 The new current link to the non fatal depository is: https://github.com/Rolosaregood/Tornado
-The FILE WorkHistory.pdf has our work history of the fatal repository. 
+The FILE WorkHistory.pdf has our work history of the fatal repository.
+
+We had to create a new one and update the link for the Website tornadoesvisual.com to reflect the changes.
