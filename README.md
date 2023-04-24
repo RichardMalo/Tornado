@@ -102,3 +102,7 @@ We tried to make the website adhere to: Web Content Accessibility Guidelines (WC
 #### Dashboard Limitations 
 It's important to note that this dashboard only displays data from https://www.spc.noaa.gov/wcm/#data,https://data.world/dhs/historical-tornado-tracks and therefore the data is available until the year 2021. Additionally, some tornadoes may be missing or have incomplete data such as Damage costs and recovery period.
 Other Limitations: This is not yet Mobile friendly as this was not in the scope of this project but for future iterations and versions as the project expands.
+
+#### We had a GITHUB Fatal within the last hour this afternoon.
+The old link to the old directory is https://github.com/Rolosaregood/Tornadoes if work history needs to be reviewed.
+The new current link to the non fatal depository is: https://github.com/Rolosaregood/Tornado
